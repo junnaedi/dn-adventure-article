@@ -46,8 +46,17 @@ a.btn-menu {
   text-indent: 80px;
 }
 
+.tips-section {
+  text-align: center;
+  color: #686868;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 1em;
+  padding: 30px 0 30px 0;
+  border-top: 3px solid #000;
+}
+
 .post-section {
-  padding: 50px 0px;
+  margin: 30px 0px;
 }
 
 .profile-card {
