@@ -61,6 +61,12 @@ a.btn-menu {
 
 .profile-card {
   border-radius: 50%;
-  padding: 0 20% 0 20%;
-  margin: 20% 0 0 0;
+}
+
+.author-section {
+  text-align: left;
+  color: #686868;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 1.5em;
+  margin: 0 0 10px 0;
 }
